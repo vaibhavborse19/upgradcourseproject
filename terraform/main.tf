@@ -17,7 +17,7 @@ module "vpc" {
 
   tags = {
     Terraform   = "true"
-    Environment = "umarf-c5-project"
+    Environment = "vbassign-c3-project"
   }
 }
 
