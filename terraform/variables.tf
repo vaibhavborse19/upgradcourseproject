@@ -11,10 +11,10 @@ variable "instance_type" {
 
 variable "key_name" {
   type    = string
-  default = "myupgradec2new"
+  default = "upgradec2new"
 }
 
 variable "prefix" {
   type    = string
-  default = "514-umarf-c5"
+  default = "vbassign-c3"
 }
