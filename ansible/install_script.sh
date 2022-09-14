@@ -1,4 +1,4 @@
-#from local
+# local
 ansible-playbook install-ansible.yml -i inventory.yml -l bastion
 
 # bastion host
