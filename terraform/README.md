@@ -1,4 +1,4 @@
-Contains terraform to build infrastructure in AWS
+This folder contains terraform to build infrastructure in AWS
 
 - Creates VPC in us-east1 region
 - Creates two private and two public subnets
